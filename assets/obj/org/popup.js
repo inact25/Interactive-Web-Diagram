@@ -1,3 +1,3 @@
 function ShowModal(labelID) {
-    parent.ShowPop(labelID)
+parent.ShowPop(labelID)
 }
